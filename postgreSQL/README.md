@@ -10,27 +10,27 @@ Acesse o portal de dados abertos do governo federal https://dados.gov.br/dados/c
 
 Para um SGBD PostgreSQL, crie uma função (stored procedure) que:
             
-            Faça a importação dos dados do arquivo csv para uma tabela física do BD, criada dentro da procedure;
-            Normalize os dados: criação das tabelas e inserção/atualização dos dados;
-            Criptografe os dados sensíveis; Caso seu dataset não tiver dados sensíveis criptografe ao menos 5 informações importantes;
-            Crie uma visão de banco de dados, que denormalize e descriptografe os dados;
-            Retorne corretamente uma tabela com os dados da visão;
+- Faça a importação dos dados do arquivo csv para uma tabela física do BD, criada dentro da procedure;
+- Normalize os dados: criação das tabelas e inserção/atualização dos dados;
+- Criptografe os dados sensíveis; Caso seu dataset não tiver dados sensíveis criptografe ao menos 5 informações importantes;
+- Crie uma visão de banco de dados, que denormalize e descriptografe os dados;
+- Retorne corretamente uma tabela com os dados da visão;
 
 Observação: todos os objetos devem ser criados/recriados dentro da função, dentre eles:
 
-            tabelas;
-            chaves primárias;
-            chaves estrangeiras;
-            visão;
+- tabelas;
+- chaves primárias;
+- chaves estrangeiras;
+- visão;
                         
-#####       Faça a chamada para a função criada, que deve executar corretamente E sem interrupções!
+#### Faça a chamada para a função criada, que deve executar corretamente E sem interrupções!
 
 ### O que devo entregar?
 
-            script no formato .sql;
-            arquivo(s) .csv utilizado(s) para importação dos dados;
-            relatório técnico descrevendo as atividades desenvolvidas;
-            Projeto físico simplificado do BD resultante - arquivo do projeto e imagem no relatório;
+- Script no formato .sql;
+- Arquivo(s) .csv utilizado(s) para importação dos dados;
+- Relatório técnico descrevendo as atividades desenvolvidas;
+- Projeto físico simplificado do BD resultante - arquivo do projeto e imagem no relatório;
 
 
 ## Estrutura do Repositório
