@@ -1,6 +1,6 @@
-# Repositório de Projetos de Banco de Dados
+# Repositório de Banco de Dados
 
-Este repositório contém vários projetos relacionados a bancos de dados. Cada projeto é organizado em pastas separadas de acordo com o sistema de gerenciamento de banco de dados (SGBD) utilizado.
+Este repositório contém apenas projetos relacionados a bancos de dados. Cada projeto é organizado em pastas separadas de acordo com o sistema de gerenciamento de banco de dados (SGBD) utilizado.
 
 ## Estrutura do Repositório
 
