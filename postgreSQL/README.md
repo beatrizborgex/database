@@ -4,7 +4,7 @@
 Este repositório contém o projeto acadêmico desenvolvido para a disciplina de Banco de Dados, utilizando PostgreSQL. 
 As instruções do professor da disciplina para o desenvolvimento do projeto eram as seguintes:
 
-###O que fazer?
+### O que fazer?
 
 Acesse o portal de dados abertos do governo federal https://dados.gov.br/dados/conjuntos-dados e faça download de um dataset não normalizado, em formato csv, com pelo menos 1000 registros. Case desejar você pode converter o dataset para o formato csv.
 
@@ -18,14 +18,14 @@ Para um SGBD PostgreSQL, crie uma função (stored procedure) que:
 
 Observação: todos os objetos devem ser criados/recriados dentro da função, dentre eles:
 
-                        tabelas;
-                        chaves primárias;
-                        chaves estrangeiras;
-                        visão;
+            tabelas;
+            chaves primárias;
+            chaves estrangeiras;
+            visão;
+                        
+#####       Faça a chamada para a função criada, que deve executar corretamente E sem interrupções!
 
-Faça a chamada para a função criada, que deve executar corretamente E sem interrupções!
-
-###O que devo entregar?
+### O que devo entregar?
 
             script no formato .sql;
             arquivo(s) .csv utilizado(s) para importação dos dados;
