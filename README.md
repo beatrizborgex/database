@@ -4,7 +4,7 @@ Este repositório contém vários projetos relacionados a bancos de dados. Cada 
 
 ## Estrutura do Repositório
 
-- **postgreSQL/**: Contém um projeto acadêmico desenvolvido utilizando PostgreSQL. Este projeto inclui a importação, normalização, criptografia, e manipulação de um dataset, além da criação de uma visão de banco de dados. Há um README.md dentro da pessa pasta que explica melhor o projeto em si.
+- **postgreSQL/**: Contém um projeto acadêmico desenvolvido utilizando PostgreSQL. Este projeto inclui a importação, normalização, criptografia, e manipulação de um dataset, além da criação de uma visão de banco de dados. Há um README.md dentro da pasta que explica melhor o projeto em si.
 
 
 
