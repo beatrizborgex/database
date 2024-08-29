@@ -1,0 +1,10 @@
+# Arquivos e pastas desnecessários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Pastas ocultas de sistema
+.DS_Store
+Thumbs.db
+
